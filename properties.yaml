@@ -1,7 +1,2 @@
-parent         : https://edeleastar.github.io/
-courseurl      : https://edeleastar-portfolio.github.io/agile-soft-dev
+parent         : course/edeleastar-portfolio
 credits        : Eamonn de Leastar & Dr.Siobhan Drohan, WIT
-highlightstyle : railscasts
-ects           : 10
-license        : Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
